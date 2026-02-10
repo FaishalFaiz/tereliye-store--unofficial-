@@ -22,6 +22,8 @@ $query = mysqli_query($conn, "SELECT * FROM books ORDER BY id DESC");
     <title>Admin Dashboard - Tere Liye Shop</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.0/font/bootstrap-icons.css">
+        <link rel="icon" href="../webicon.svg" sizes="32x32" />
+
     <style>
         .navbar-glass {
             background: rgba(33, 37, 41, 0.85);
@@ -64,7 +66,7 @@ $query = mysqli_query($conn, "SELECT * FROM books ORDER BY id DESC");
                     </li>
 
                     <li class="nav-item ms-lg-2 my-2 my-lg-0">
-                        <a href="logout.php" class="btn btn-outline-light btn-sm px-4 rounded-pill">
+                        <a href="../logout.php" class="btn btn-outline-light btn-sm px-4 rounded-pill">
                             Logout
                         </a>
                     </li>

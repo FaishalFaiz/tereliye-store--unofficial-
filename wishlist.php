@@ -21,9 +21,11 @@ if (isset($_GET['hapus'])) {
 <html lang="id">
 
 <head>
-    <title>Wishlist Saya</title>
+    <title>Wishlist - Tere Liye Store</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.0/font/bootstrap-icons.css">
+    <link rel="icon" href="webicon.svg" sizes="32x32" />
+
 </head>
 
 <body class="bg-light">

@@ -55,6 +55,8 @@ if (isset($_POST['login'])) {
 <head>
     <title>Login - Tere Liye Store</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="icon" href="webicon.svg" sizes="32x32" />
+
 </head>
 <body class="bg-light d-flex align-items-center justify-content-center" style="min-height: 100vh;">
 

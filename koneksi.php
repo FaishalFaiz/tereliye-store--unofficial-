@@ -1,6 +1,6 @@
 <?php
 
-// fill with your own database connection details
+// fill in your database connection details here
 $host = "";
 $user = "";
 $pass = "";
